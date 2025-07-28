@@ -8,6 +8,6 @@ public class A{
 	System.out.println("PI value: " +Math.PI);
    }
 
-	System.out.println("Thank you");
+	System.out.println("Thank you from master branch");
 }
 }
