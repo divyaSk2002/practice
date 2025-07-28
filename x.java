@@ -1,6 +1,6 @@
 public class x{
   
-	private int a;
+
 	private String str;
 
 	public void  setStr()
